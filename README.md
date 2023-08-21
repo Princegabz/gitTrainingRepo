@@ -1,0 +1,2 @@
+# gitTrainingRepo
+WE Winning
